@@ -1,0 +1,31 @@
+5
+1
+Dos ... sobre la tela de una araña?
+Juan
+Barlomeo
+Elefantes
+*1*
+2
+Dos elefantes sobre la ... de una araña?
+Juancho
+BarT
+Tela
+*2*
+3
+Dos elefantes sobre la tela de una ... ?
+Juana
+Barlomea
+Araña
+*3*
+4
+Como se llama el gelato?
+Juanes
+Barlomeos
+Helado
+*4*
+5
+Como se encuentra ?
+Bien
+MAl
+Aceituna
+*5*

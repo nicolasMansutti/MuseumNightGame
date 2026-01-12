@@ -1,0 +1,36 @@
+5
+1
+Como se llama Juan?
+Juana
+Barlomeo
+Juan
+Celiaco, Petiso, Autista
+*1*
+2
+Cómo dice el gato?
+Juancho
+BarT
+Miau
+Irascible, Petiso, Autista
+*2*
+3
+Como tu te llama ?
+Juana
+Barlomea
+Yo no se
+Celiaco, VIH, Autista
+*3*
+4
+Hola Don ... ?
+Juanes
+Barlomeos
+Pepito
+Celiaco, Petiso, Embarazado
+*4*
+5
+Como se llama la llama ?
+Juan
+Barlomeo
+Yamaha
+Colageno, Alergia al pasto, Autista
+*5*

@@ -1,0 +1,31 @@
+5
+1
+En un lugar de la mancha de cuyo nombre no me acuerdo vivia un gallardo hombre?
+Juan
+Barlomeo
+Odus
+*1*
+2
+Como se llama mi perro?
+Juancho
+BarT
+Odus
+*2*
+3
+Como se llama mi gata?
+Juana
+Barlomea
+Odusa
+*3*
+4
+Como se llaman mis gatos?
+Juanes
+Barlomeos
+Oduses
+*4*
+5
+Como me llamo ?
+Juan
+Barlomeo
+Nico
+*5*
