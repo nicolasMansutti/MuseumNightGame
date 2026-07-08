@@ -11,7 +11,7 @@ from typing import Final
 
 import chardet
 import customtkinter
-import simpleaudio as sa
+import pygame
 
 faulthandler.enable()
 # variables globales-->
@@ -24,7 +24,7 @@ SPEED: Final = 800
 RIGHT_LIMIT: Final = WIDTH
 LAST_TIME: Final = time.perf_counter()
 IS_COUNTING = True
-QUESTION_TIME = 10
+QUESTION_TIME = 20
 NEXT_SECOND = None
 
 
@@ -152,11 +152,10 @@ def action_buttons(lvl):
 
 # -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
 def music(sound, nest_func=None):
-    musica = sa.WaveObject.from_wave_file(sound)
-    # play = musica.play()
-    musica.play()
+    pygame.mixer.init()
+    pygame.mixer.Sound(sound).play()
     if nest_func:
-        canvas.after(2000, nest_func)
+        canvas.after(2100, nest_func)
 
 
 # -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
