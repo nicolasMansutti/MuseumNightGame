@@ -12,7 +12,7 @@ from typing import Final
 import chardet
 import customtkinter
 import pygame
-
+customtkinter.DrawEngine.preferred_drawing_method = "circle_shapes"
 faulthandler.enable()
 # variables globales-->
 WIDTH: Final = 800
